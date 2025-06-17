@@ -20,7 +20,7 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://fvukelic.com"),
-  title: "Franck Vukelic",
+  title: "Mohd Hassan",
   description:
     "Full-stack developer skilled in Next.js/React and a versatile tech stack, also offering WordPress site development for small businesses.",
   icons: {
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   // Facebook
   openGraph: {
-    title: "Franck Vukelić",
+    title: "Mohd Hassan",
     description:
       "Full-stack developer skilled in Next.js/React and a versatile tech stack, also offering WordPress site development for small businesses.",
     url: "https://fvukelic.com",
