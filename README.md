@@ -103,21 +103,4 @@ Open [`localhost:3000`](http://localhost:3000) in your browser to view the proje
 
 Global styling (colors mainly) are defined using CSS variables in the `app/globals.css` file.
 
-```
-  --background: rgb(17, 17, 17);
-  --bg-opaque: rgb(17, 17, 17, 0.25);
-  --background-light: rgb(35, 35, 35);
-  --background-dark: rgb(8, 8, 8);
 
-  --text: rgb(235, 236, 243);
-  --brand: rgb(10, 255, 157);
-
-  --text-xs: 1.6rem;
-  --text-sm: 1.8rem;
-  --text-md: 2.2rem;
-  --text-lg: 3.6rem;
-  --text-xl: 5.6rem;
-  --text-2xl: 9.6rem;
-```
-
-The first six variables are the colors for the app. The last six are font sizes. Play around with these a bit to start making it your own.
