@@ -96,11 +96,6 @@ npm run dev
 yarn dev
 ```
 
-Open [`localhost:3000`](http://localhost:3000) in your browser to view the project.
 
-
-## <br/> <a name="styling">🎨 Styling</a>
-
-Global styling (colors mainly) are defined using CSS variables in the `app/globals.css` file.
 
 
